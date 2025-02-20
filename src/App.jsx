@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./components/home"; // Import the Home component
 
 import RedPage from "./components/RedPage";
-import BluePage from "./components/bluePage";
+import BluePage from "./components/BluePage";
 
 function App() {
   return (
